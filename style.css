@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
 
-/* Reset básico para remover margens e paddings padrões */
 * {
     margin: 0;
     padding: 0;
@@ -88,7 +87,7 @@ header {
 
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     border-top: 3px solid black;;
     color: black;
     position: fixed;
